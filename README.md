@@ -135,7 +135,10 @@ Alchemist/
 
 ## Authors
 
-Add name(s), section, and instructor here.
+- Reindel Andrada
+- Samantha Del Rosario
+- Keith Lawrence Escanilla
+- Kathlene Shane Imson
 
 ## License
 
