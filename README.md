@@ -142,4 +142,6 @@ Alchemist/
 
 ## License
 
-Add a license (e.g. MIT) if this repository is intended to be reused, or note that it is coursework not licensed for reuse.
+This project is licensed under the MIT License — you're free to copy, modify, and reuse it, as long as the original copyright notice is kept.
+
+If you do use or build on this project, we'd appreciate it if you reached out first.
